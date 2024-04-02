@@ -1,0 +1,14 @@
+{
+    "Exporter": {
+        "template_file": "template.tpl"
+    },
+    "HTMLExporter": {
+        "theme": "light",
+        "stylesheets": ["./static/stylesheet.css"]
+    },
+    "PDFExporter": {
+        "latex_command": "xelatex",
+        "template_file": "article.tplx"
+    }
+}
+  
