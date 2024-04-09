@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../../stylesheet.css">
+
 # Story_09 — Deep Learning
 
 ## Contexte
@@ -12,7 +14,7 @@
 - <def-of>CNN (Convolutional Neural Network)</def-of> : *Type de réseau de neurones profonds spécialement conçu pour le traitement efficace des données structurées en grille telles que les images, les vidéos et les données séquentielles.*
 - <def-of>RNN (Recurrent Neural Network)</def-of> : *Les RNN ont des connexions récurrentes qui leur permettent de conserver une mémoire interne, ce qui les rend particulièrement adaptés pour la reconnaissance de la parole, la traduction automatique, la génération de texte, etc.*
 - <def-of>NLP (Natural Language Processing)</def-of> : **
-- <def-of>SOM< (Self-Organizing Map)/def-of> : *Technique d'apprentissage non supervisé utilisée pour la réduction de dimensionnalité et la visualisation de données complexes.*
+- <def-of>SOM (Self-Organizing Map)</def-of> : *Technique d'apprentissage non supervisé utilisée pour la réduction de dimensionnalité et la visualisation de données complexes.*
 - <def-of>TensorFlow</def-of> : *Plateforme Opensource *
 - <def-of>Keras</def-of> : *API Python Opensource pour le Machine learning.*
 - <def-of>`epoch`</def-of> : *Cycle complet d'entraînement d'un réseau de neuronnes, dans lequel toutes les données sont présentées une fois. Plus le nombre d'epoch est grand, plus l'entraînement est lent, et plus le modèle est précis.*
