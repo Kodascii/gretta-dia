@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "name": "dia-docs",
+            "path": "../docs"
+        },
+        {
+            "name": "dia-workshops",
+            "path": "../workshops"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "dia_gretta"
+    }
+}
