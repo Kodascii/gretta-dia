@@ -13,4 +13,9 @@
 - [NeuralNetworks-Architectures](https://www.asimovinstitute.org/neural-network-zoo/)
 
 ## Wikipedia
+- [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network)
+- [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 - [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+
+## VSCode
+- [JupyterSerializer](https://code.visualstudio.com/api/extension-guides/notebook#notebook-renderer)
